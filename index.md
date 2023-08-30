@@ -1,19 +1,72 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
 
-## About Me
-Write a brief description about yourself here.
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Name - Resume</title>
+  <!-- Include Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet">
 
-## Education
-- [Your University], [Degree], [Field], [Years]
+  <style>
+    /* Additional styling */
+    body {
+      padding-top: 20px;
+    }
 
-## Research
-Describe your research interests and projects here.
+    header {
+      background: #f8f9fa;
+      padding: 20px 0;
+      text-align: center;
+    }
+  </style>
+</head>
 
-## Publications
-- Publication 1
-- Publication 2
+<body>
+  <header>
+    <h1>Your Name</h1>
+    <p>Graduate Student in [Your Field]</p>
+  </header>
 
-## Contact
-Email: [your@email.com]
+  <div class="container">
+    <!-- About Me -->
+    <section id="about" class="my-5">
+      <h2>About Me</h2>
+      <p>Write a brief description about yourself here.</p>
+    </section>
+
+    <!-- Education -->
+    <section id="education" class="my-5">
+      <h2>Education</h2>
+      <ul>
+        <li>[Your University], [Degree], [Field], [Years]</li>
+      </ul>
+    </section>
+
+    <!-- Research -->
+    <section id="research" class="my-5">
+      <h2>Research</h2>
+      <p>Describe your research interests and projects here.</p>
+    </section>
+
+    <!-- Publications -->
+    <section id="publications" class="my-5">
+      <h2>Publications</h2>
+      <ul>
+        <li>Publication 1</li>
+        <li>Publication 2</li>
+      </ul>
+    </section>
+
+    <!-- Contact -->
+    <section id="contact" class="my-5">
+      <h2>Contact</h2>
+      <p>Email: [your@email.com]</p>
+    </section>
+  </div>
+
+  <!-- Include Bootstrap JS (optional) -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
