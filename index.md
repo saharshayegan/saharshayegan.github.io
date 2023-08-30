@@ -22,6 +22,13 @@ I enjoy working at the intersection of machine learning and human sciences. By c
 <!-- ## Publications
 - -->
 
+## Experience
+### National Research Council Canada / Conseil national de recherches Canada · Internship
+![NRC Logo](figs/nrc_logo.jpeg){:class="logo"} 
+**Duration:** May 2023 - August 2023  
+**Location:** Ottawa, Ontario, Canada (Remote)  
+**Role:** Working on NLP with Isar Nejadgholi
+
 <!-- Contact -->
 ## Contact
 Email: [name][lastname] [at] mila [dot] quebec
