@@ -23,11 +23,14 @@ I enjoy working at the intersection of machine learning and human sciences. By c
 - -->
 
 ## Experience
-### National Research Council Canada / Conseil national de recherches Canada · Internship
-![NRC Logo](figs/nrc_logo.jpeg){:class="logo"} 
-**Duration:** May 2023 - August 2023  
-**Location:** Ottawa, Ontario, Canada (Remote)  
-**Role:** Working on NLP with Isar Nejadgholi
+
+<!-- ![NRC Logo](figs/nrc_logo.jpeg){:class="logo"} 
+#### National Research Council Canada / Conseil national de recherches Canada · Internship -->
+#### <img src="figs/nrc_logo.jpeg" alt="NRC Logo" style="width: 30px; height: 30px; vertical-align: middle;"> National Research Council Canada - Internship  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Duration:** May 2023 - August 2023  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Location:** Ottawa, Ontario, Canada (Remote)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Role:** Working on NLP with Isar Nejadgholi
 
 <!-- Contact -->
 ## Contact
