@@ -5,34 +5,41 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ site.title }} - Resume</title>
-  <!-- Include Bootstrap CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet">
-  
+
   <style>
     /* Additional styling */
     body {
       padding-top: 20px;
+      background-color: #f8f9fa;
     }
 
     header {
-      background: #f8f9fa;
+      background: #343a40;
+      color: white;
       padding: 20px 0;
       text-align: center;
+    }
+
+    img.profile-pic {
+      max-width: 150px;
+      border-radius: 50%;
+      margin-top: 15px;
     }
   </style>
 </head>
 
 <body>
   <header>
+    <img src="figs/sahars_photo.jpeg" alt="Profile Picture" class="profile-pic">
     <h1>{{ site.title }}</h1>
     <p>{{ site.description }}</p>
   </header>
-  
+
   <div class="container">
     {{ content }}
   </div>
 
-  <!-- Include Bootstrap JS (optional) -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
