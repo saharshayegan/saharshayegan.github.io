@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <html lang="en">
 
 <head>
@@ -64,7 +64,7 @@
         <!-- Contact -->
         <section id="contact" class="my-5">
             <h2>Contact</h2>
-            <p>Email: [name][lastname] at mila.quebec </p>
+            <p>Email: [name][lastname] [at] mila [dot] quebec </p>
         </section>
     </div>
 
