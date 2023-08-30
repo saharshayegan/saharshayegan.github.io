@@ -23,55 +23,53 @@
 </head>
 
 <body>
-  <header>
-    <h1>Sahar Omidi Shayegan</h1>
-    <p>Graduate Student in McGill University</p>
-  </header>
+    <header>
+        <h1>Sahar Omidi Shayegan</h1>
+        <p>Graduate Student in McGill University</p>
+    </header>
 
-  <div class="container">
-    <!-- About Me -->
-    <section id="about" class="my-5">
-      <h2>About Me</h2>
-      <p>I am a research master student in McGill University and Mila AI Institute, working on Computational Social Science, Network Science, and NLP.</p>
-    </section>
+    <div class="container">
+        <!-- About Me -->
+        <section id="about" class="my-5">
+            <h2>About Me</h2>
+            <p>I am a research master student in McGill University and Mila AI Institute, working on Computational Social Science, Network Science, and NLP.</p>
+        </section>
 
-    <!-- Education -->
-    <section id="education" class="my-5">
-      <h2>Education</h2>
-      <ul>
-        <li>McGill University, M.Sc., Computer Science, 2022-Now</li>
-      </ul>
-      <ul>
-        <li>Amirkabir University (Tehran Polytechnic), B.Sc., Computer Science, 2018-2022</li>
-      </ul>
-    </section>
+        <section id="education" class="my-5">
+            <h2>Education</h2>
+            <ul>
+            <li>McGill University, M.Sc., Computer Science, 2022-Now</li>
+            </ul>
+            <ul>
+            <li>Amirkabir University (Tehran Polytechnic), B.Sc., Computer Science, 2018-2022</li>
+            </ul>
+        </section>
 
-    <!-- Research -->
-    <section id="research" class="my-5">
-      <h2>Research</h2>
-      <p>I work on the combining graph neural networks and natural language processing to get a better understanding of social networks.</p>
-    </section>
+        <!-- Research -->
+        <section id="research" class="my-5">
+            <h2>Research</h2>
+            <p>I work on the combining graph neural networks and natural language processing to get a better understanding of social networks.</p>
+        </section>
 
-    <!--
-    <!-- Publications -->
-    <section id="publications" class="my-5">
-      <h2>Publications</h2>
-      <ul>
-        <li>Publication 1</li>
-        <li>Publication 2</li>
-      </ul>
-    </section>
-    -->
+        <!--
+        <section id="publications" class="my-5">
+            <h2>Publications</h2>
+            <ul>
+            <li>Publication 1</li>
+            <li>Publication 2</li>
+            </ul>
+        </section>
+        -->
 
-    <!-- Contact -->
-    <section id="contact" class="my-5">
-      <h2>Contact</h2>
-      <p>Email: [name][lastname] at mila.quebec </p>
-    </section>
-  </div>
+        <!-- Contact -->
+        <section id="contact" class="my-5">
+            <h2>Contact</h2>
+            <p>Email: [name][lastname] at mila.quebec </p>
+        </section>
+    </div>
 
-  <!-- Include Bootstrap JS (optional) -->
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Include Bootstrap JS (optional) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>
