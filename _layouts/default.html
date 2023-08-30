@@ -1,35 +1,58 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ site.title }}</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
   <style>
-    /* Additional styling */
-    body {
+    body, html {
+      height: 100%;
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      display: grid;
+      justify-items: center;
+      align-items: center;
+      background-color: #3a3a3a;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 1200px;
+      display: grid;
+      grid-template-columns: 300px auto;
+      gap: 20px;
+    }
+
+    .sidenav {
+      height: 100%;
+      background-color: #111;
       padding-top: 20px;
-      background-color: #f8f9fa;
     }
 
-    header {
-      background: #343a40;
-      color: white;
-      padding: 20px 0;
-      text-align: center;
+    .main-content {
+      padding: 15px;
+      background-color: white;
+      text-align: justify;
     }
 
-    img.profile-pic {
-      max-width: 150px;
+    .sidenav a {
+      padding: 8px 8px 8px 16px;
+      text-decoration: none;
+      font-size: 18px;
+      color: #818181;
+      display: block;
+    }
+
+    .sidenav a:hover {
+      color: #f1f1f1;
+    }
+
+    .profile-pic {
+      max-width: 100px;
+      margin: 15px;
       border-radius: 50%;
-      margin-top: 15px;
-    }
-
-    .social-icons {
-      margin-top: 10px;
     }
 
     .social-icons a {
@@ -37,30 +60,28 @@
       color: white;
       text-decoration: none;
     }
-
-    img.logo {
-    width: 40px;
-    height: 40px;
-  }
   </style>
 </head>
-
 <body>
-  <header>
-    <img src="figs/sahars_photo.jpeg" alt="Profile Picture" class="profile-pic">
-    <h1>{{ site.title }}</h1>
-    <p>{{ site.description }}</p>
-    <div class="social-icons">
-      <a href="https://www.linkedin.com/in/sahar-shayegan/" target="_blank"><i class="fab fa-linkedin"></i></a>
-      <a href="https://twitter.com/sahar_shayegan" target="_blank"><i class="fab fa-twitter"></i></a>
-    </div>
-  </header>
-
   <div class="container">
-    {{ content }}
+    <div class="sidenav">
+      <img src="figs/sahars_photo.jpeg" alt="Profile Picture" class="profile-pic">
+      <h2>{{ site.title }}</h2>
+      <a href="#about">About Me</a>
+      <a href="#education">Education</a>
+      <a href="#research">Research</a>
+      <a href="#experience">Experience</a>
+      <a href="#contact">Contact</a>
+      <div class="social-icons">
+        <a href="https://www.linkedin.com/in/sahar-shayegan/" target="_blank"><i class="fab fa-linkedin"></i></a>
+        <a href="https://twitter.com/sahar_shayegan" target="_blank"><i class="fab fa-twitter"></i></a>
+      </div>
+    </div>
+    <div class="main-content">
+      {{ content }}
+    </div>
   </div>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
-
 </html>
