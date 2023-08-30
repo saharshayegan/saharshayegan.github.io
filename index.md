@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your Name - Resume</title>
+  <title>Sahar Omidi Shayegan - Resume</title>
   <!-- Include Bootstrap CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet">
 
@@ -24,15 +24,15 @@
 
 <body>
   <header>
-    <h1>Your Name</h1>
-    <p>Graduate Student in [Your Field]</p>
+    <h1>Sahar</h1>
+    <p>Graduate Student in McGill University</p>
   </header>
 
   <div class="container">
     <!-- About Me -->
     <section id="about" class="my-5">
       <h2>About Me</h2>
-      <p>Write a brief description about yourself here.</p>
+      <p>I am a research master student in McGill University and Mila AI Institute, working on Computational Social Science, Network Science, and NLP.</p>
     </section>
 
     <!-- Education -->
