@@ -23,5 +23,16 @@ I enjoy working at the intersection of machine learning and human sciences. By c
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Location:** Ottawa, Ontario, Canada (Remote)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Role:** Working on NLP with Isar Nejadgholi
 
+
+#### <img src="figs/ut_logo.jpeg" alt="UT Logo" style="width: 30px; height: 30px; vertical-align: middle;"> University of Tehran - Undergraduate Research Assistant  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Duration:** Feb 2022 - Sep 2022  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Location:** Tehran, Iran  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Role:** Social Media research assistant in the Data Analytics lab under the supervision of Prof. Behnam Bahrak  
+
+#### <img src="figs/aut_logo.jpeg" alt="AUT Logo" style="width: 30px; height: 30px; vertical-align: middle;"> Amirkabir University of Technology - Undergraduate Research Assistant  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Duration:** Jan 2022 - Sep 2022  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Location:** Tehran, Iran  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Role:** Social Media research assistant in the Data Science lab under the supervision of Prof. Mohammad Akbari  
+
 ## Contact
 Email: [name][lastname] [at] mila [dot] quebec
