@@ -13,6 +13,11 @@ I am a research master student in McGill University and Mila AI Institute, worki
 <!-- Research -->
 ## Research
 I work on the combining graph neural networks and natural language processing to get a better understanding of social networks.
+### Research Focus
+I started my M.Sc. at McGill and Mila in 2022, working under the supervision of Reihaneh Rabbany. My research focuses on network science, computational social science, and graph representation.  
+I enjoy working at the intersection of machine learning and human sciences. By combining these disciplines, I try to uncover valuable insights from real-world data. Currently, my focus lies in the study of social networks, where I aim to identify patterns by bridging between theory and practice.  
+[Link to Mila webpage](https://mila.quebec/en/person/sahar-omidi-shayegan/)
+
 
 <!-- ## Publications
 - -->
