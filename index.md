@@ -39,16 +39,20 @@
     <section id="education" class="my-5">
       <h2>Education</h2>
       <ul>
-        <li>[Your University], [Degree], [Field], [Years]</li>
+        <li>McGill University, M.Sc., Computer Science, 2022-Now</li>
+      </ul>
+      <ul>
+        <li>Amirkabir University (Tehran Polytechnic), B.Sc., Computer Science, 2018-2022</li>
       </ul>
     </section>
 
     <!-- Research -->
     <section id="research" class="my-5">
       <h2>Research</h2>
-      <p>Describe your research interests and projects here.</p>
+      <p>I work on the combining graph neural networks and natural language processing to get a better understanding of social networks.</p>
     </section>
 
+    <!--
     <!-- Publications -->
     <section id="publications" class="my-5">
       <h2>Publications</h2>
@@ -57,11 +61,12 @@
         <li>Publication 2</li>
       </ul>
     </section>
+    -->
 
     <!-- Contact -->
     <section id="contact" class="my-5">
       <h2>Contact</h2>
-      <p>Email: [your@email.com]</p>
+      <p>Email: [name][lastname] at mila.quebec </p>
     </section>
   </div>
 
