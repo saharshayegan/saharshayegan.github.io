@@ -24,7 +24,7 @@
 
 <body>
   <header>
-    <h1>Sahar</h1>
+    <h1>Sahar Omidi Shayegan</h1>
     <p>Graduate Student in McGill University</p>
   </header>
 
