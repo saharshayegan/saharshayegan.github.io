@@ -6,7 +6,6 @@ permalink: /timeline/
 Hopefully there will be a fun timeline here soon!
 
 ## My Timeline of Events
-
 <div class="timeline-container">
   <div class="timeline">
     <div class="timeline-item left">
@@ -31,4 +30,4 @@ Hopefully there will be a fun timeline here soon!
   </div>
 </div>
 
-[]: # [Back to Home]({{ site.baseurl }}/)
+[Back to Home]({{ site.baseurl }}/)
