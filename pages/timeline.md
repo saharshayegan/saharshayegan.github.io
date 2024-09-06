@@ -6,28 +6,8 @@ permalink: /timeline/
 Hopefully there will be a nice timeline here soon!
 
 ## My Timeline of Events
-<div class="timeline-container">
+<!-- <div class="timeline-container">
   <div class="timeline">
-    <div class="timeline-item left">
-      <div class="content">
-        <h3>Event 1 - Date</h3>
-        <p>Details of the event go here.</p>
-      </div>
-    </div>
-    <div class="timeline-item right">
-      <div class="content">
-        <h3>Event 2 - Date</h3>
-        <p>Details of the event go here.</p>
-      </div>
-    </div>
-    <div class="timeline-item left">
-      <div class="content">
-        <h3>Event 3 - Date</h3>
-        <p>Details of the event go here.</p>
-      </div>
-    </div>
-    <!-- Add more timeline items here -->
-    <!-- 19th Century Events -->
     <div class="timeline-item left">
       <div class="content">
         <h3>1804-1815: Napoleonic Wars</h3>
@@ -63,7 +43,6 @@ Hopefully there will be a nice timeline here soon!
         <h3>1911: Chinese Revolution</h3>
       </div>
     </div>
-    <!-- 20th Century Events -->
     <div class="timeline-item right">
       <div class="content">
         <h3>1914-1918: World War I</h3>
@@ -134,7 +113,6 @@ Hopefully there will be a nice timeline here soon!
         <h3>1991: Dissolution of the Soviet Union</h3>
       </div>
     </div>
-    <!-- 21st Century Events -->
     <div class="timeline-item right">
       <div class="content">
         <h3>2001: September 11 attacks</h3>
@@ -160,19 +138,17 @@ Hopefully there will be a nice timeline here soon!
         <h3>2016: Brexit referendum; Trump elected</h3>
       </div>
     </div>
-
     <div class="timeline-item left">
       <div class="content">
         <h3>2019: COVID-19 pandemic</h3>
       </div>
     </div>
-
     <div class="timeline-item right">
       <div class="content">
         <h3>2020: Black Lives Matter protests</h3>
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
 [Back to Home]({{ site.baseurl }}/)
