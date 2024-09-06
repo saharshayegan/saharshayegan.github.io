@@ -3,7 +3,7 @@ layout: default
 title: "Timeline"
 permalink: /timeline/
 ---
-Hopefully there will be a fun timeline here soon!
+Hopefully there will be a nice timeline here soon!
 
 ## My Timeline of Events
 <div class="timeline-container">
