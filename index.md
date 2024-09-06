@@ -36,3 +36,6 @@ I enjoy working at the intersection of machine learning and human sciences. By c
 
 ## Contact
 Email: [name][lastname] [at] mila [dot] quebec
+
+
+[Timeline]({{ site.baseurl }}/timeline/)
