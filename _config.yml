@@ -1,2 +1,34 @@
+# Site configuration
 title: Sahar Omidi Shayegan
-description: Graduate Student at McGill University
+tagline: Graduate Student at McGill University and Mila AI Institute
+description: A graduate student and researcher in AI and machine learning at McGill University and Mila AI Institute.
+url: "" # your site's URL
+baseurl: ""
+
+# Dependencies
+markdown: kramdown
+highlighter: rouge
+
+# Permalinks
+permalink: pretty
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+
+# Site settings
+encoding: utf-8
+paginate: 5
+paginate_path: "page:num"
+
+# Author
+author:
+  name: Sahar Omidi Shayegan
+  url: https://www.linkedin.com/in/sahar-shayegan/
+
+# Custom vars
+version: 1.0.0
+
+github:
+  repo: https://github.com/saharshayegan/saharshayegan.github.io
