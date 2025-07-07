@@ -76,11 +76,34 @@ html {
 }
 
 /* About section */
+.profile-photo {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.profile-photo img {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid rgba(255, 255, 255, 0.1);
+  transition: border-color 0.3s ease;
+}
+
+.profile-photo img:hover {
+  border-color: rgba(255, 255, 255, 0.3);
+}
+
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
-  font-size: 3.25rem;
+  font-size: 1.9rem;
+}
+
+.sidebar-about .lead {
+  font-size: 0.9rem;
+  font-weight: 300;
 }
 
 /* Sidebar nav */
