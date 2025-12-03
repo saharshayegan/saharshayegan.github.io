@@ -1,7 +1,7 @@
 # Site configuration
 title: Sahar Omidi Shayegan
-tagline: Graduate Student at McGill University and Mila AI Institute
-description: A graduate student and researcher in AI and machine learning at McGill University and Mila AI Institute.
+tagline: Research Engineer at Veris AI
+description: Research Engineer working on LLM agents, simulation environments, and agent optimization.
 url: "" # your site's URL
 baseurl: ""
 

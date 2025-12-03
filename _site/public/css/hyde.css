@@ -271,3 +271,8 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* Tighter spacing for experience entries */
+.content p {
+  margin-bottom: 0.5rem;
+}

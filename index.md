@@ -1,48 +1,44 @@
 ---
 layout: page
-title: Welcome
 ---
 
-I am a research master student at [McGill University](https://www.mcgill.ca/) and [Mila AI Institute](https://mila.quebec/en/), working on Computational Social Science, Network Science, and Natural Language Processing.
+I am a Research Engineer at [Veris AI](https://veris.ai), working on simulation environments for enterprise agents. I graduated with a M.Sc. in Computer Science from [McGill University](https://www.mcgill.ca/) and [Mila AI Institute](https://mila.quebec/en/) in August 2025, where I was supervised by [Prof.&nbsp;Reihaneh Rabbany](http://www.reirab.com/) at the Complex Data Lab.
 
-I enjoy working at the intersection of machine learning and human sciences. By combining these disciplines, I try to uncover valuable insights from real-world data. Currently, my focus lies in the study of social networks, where I aim to identify patterns by bridging between theory and practice.
+## Research Interests
 
-## Research Focus
+I am mainly interested in LLM agents, particularly in agent optimization, post-training, LLM personas, reasoning, and planning.
 
-Under the supervision of [Prof. Reihaneh Rabbany](http://www.reirab.com/), my research focuses on:
-
-- **Graph Neural Networks** - Developing novel architectures for social network analysis
-- **Natural Language Processing** - Processing textual data in social contexts
-- **Social Network Analysis** - Understanding community formation and information diffusion
-- **Computational Social Science** - Applying computational methods to social phenomena
+Previously, I worked at the intersection of machine learning and human sciences, focusing on computational social science, network science, and NLP. By combining these disciplines, I uncovered insights from real-world data, studying social networks and bridging theory and practice.
 
 ## Education
 
-- **McGill University** - M.Sc., Computer Science (2022-Present)
+- **McGill University & Mila AI Institute** - M.Sc., Computer Science (2022-2025)
 - **Amirkabir University (Tehran Polytechnic)** - B.Sc., Computer Science (2018-2022)
 
 ## Experience
 
-### National Research Council Canada
-**Research Intern** • *May 2023 - August 2023*  
-Ottawa, Ontario, Canada (Remote)  
-Working on NLP research with Isar Nejadgholi
+**Veris AI** - Research Engineer (Aug 2025 - Present)<br>
+Working on simulation environment for enterprise agents
 
-### University of Tehran
-**Undergraduate Research Assistant** • *Feb 2022 - Sep 2022*  
-Tehran, Iran  
-Social Media research assistant in the Data Analytics lab under the supervision of Prof. Behnam Bahrak
+**ServiceNow Research** - Visiting Researcher (Oct 2024 - Jun 2025)<br>
+Post-training LLM WebAgents (WorkArena, BrowserGym, AgentLab) and LLM retrieval techniques for context reduction with Alexandre Lacoste
 
-### Amirkabir University of Technology
-**Undergraduate Research Assistant** • *Jan 2022 - Sep 2022*  
-Tehran, Iran  
-Social Media research assistant in the Data Science lab under the supervision of Prof. Mohammad Akbari
+**National Research Council Canada** - Research Intern (May 2023 - Aug 2023)<br>
+NLP research with Isar Nejadgholi
+
+**University of Tehran** - Research Assistant (Feb 2022 - Sep 2022)<br>
+Social media research in the Data Analytics lab with Prof. Behnam Bahrak
+
+**Amirkabir University of Technology** - Research Assistant (Jan 2022 - Sep 2022)<br>
+Social media research in the Data Science lab with Prof. Mohammad Akbari
 
 ## Connect With Me
 
-I'm always interested in discussing research, potential collaborations, or just chatting about the fascinating world of computational social science!
+I'm always interested in discussing research, potential collaborations, or just chatting about the fascinating world of LLM agents!
 
 - **Mila Profile**: [View Profile](https://mila.quebec/en/person/sahar-omidi-shayegan/)
 - **LinkedIn**: [sahar-shayegan](https://www.linkedin.com/in/sahar-shayegan/)
 - **Twitter**: [@sahar_shayegan](https://twitter.com/sahar_shayegan)
-- **Email**: [sahar.omidi.shayegan@mila.quebec](mailto:sahar.omidi.shayegan@mila.quebec)
+- **Email**: sahar[dot]omidishayegan[at]mail[dot]mcgill[dot]ca
+
+<small>Last updated: December 2025</small>
